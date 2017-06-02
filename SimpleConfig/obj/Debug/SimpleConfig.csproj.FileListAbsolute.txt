@@ -1,0 +1,5 @@
+C:\repo\SimpleConfig\SimpleConfig\bin\Debug\SimpleConfig.dll
+C:\repo\SimpleConfig\SimpleConfig\bin\Debug\SimpleConfig.pdb
+C:\repo\SimpleConfig\SimpleConfig\obj\Debug\SimpleConfig.csprojResolveAssemblyReference.cache
+C:\repo\SimpleConfig\SimpleConfig\obj\Debug\SimpleConfig.dll
+C:\repo\SimpleConfig\SimpleConfig\obj\Debug\SimpleConfig.pdb
