@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\FileTypeSource.cs" />
+    <Compile Include="Common\SourceTypes.cs" />
     <Compile Include="IConfig.cs" />
     <Compile Include="SimpleConfig.cs" />
     <Compile Include="MainInit.cs" />

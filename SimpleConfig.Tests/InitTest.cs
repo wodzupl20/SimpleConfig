@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SimpleConfig.Common;
 
 namespace SimpleConfig.Tests
 {
@@ -18,10 +19,13 @@ namespace SimpleConfig.Tests
             Assert.IsNotNull(SimpleConfig.Init(),"SimpleConfig.Init() != null library returns interface");
             Assert.AreEqual(SimpleConfig.Init(), SimpleConfig.Init(), "Interfaces are not the same");
         }
-
-        public void SoureFromFile()
+        /// <summary>
+        /// Test type of file on init should be file and init app data else NONE
+        /// </summary>
+        [TestMethod]
+        public void SourFromFile()
         {
-            
+            Assert.IsTrue(SimpleConfig.Init().TypeOfConfig == SourceType.File, "Init source should be file");
         }
     }
 }

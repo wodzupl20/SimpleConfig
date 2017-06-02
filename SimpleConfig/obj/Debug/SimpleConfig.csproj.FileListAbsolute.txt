@@ -7,3 +7,4 @@ C:\PrivateRepo\SimpleConfig\SimpleConfig\bin\Debug\SimpleConfig.dll
 C:\PrivateRepo\SimpleConfig\SimpleConfig\bin\Debug\SimpleConfig.pdb
 C:\PrivateRepo\SimpleConfig\SimpleConfig\obj\Debug\SimpleConfig.dll
 C:\PrivateRepo\SimpleConfig\SimpleConfig\obj\Debug\SimpleConfig.pdb
+C:\PrivateRepo\SimpleConfig\SimpleConfig\obj\Debug\SimpleConfig.csprojResolveAssemblyReference.cache
