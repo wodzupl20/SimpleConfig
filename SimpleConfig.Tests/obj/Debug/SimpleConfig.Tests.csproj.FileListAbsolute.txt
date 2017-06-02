@@ -1,0 +1,8 @@
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\bin\Debug\SimpleConfig.Tests.dll
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\bin\Debug\SimpleConfig.Tests.pdb
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\bin\Debug\SimpleConfig.dll
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\bin\Debug\SimpleConfig.pdb
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\obj\Debug\SimpleConfig.Tests.csprojResolveAssemblyReference.cache
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\obj\Debug\SimpleConfig.Tests.dll
+C:\PrivateRepo\SimpleConfig\SimpleConfig.Tests\obj\Debug\SimpleConfig.Tests.pdb
